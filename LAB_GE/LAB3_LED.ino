@@ -1,6 +1,6 @@
 /*การเชื่อมต่ออุปกรณ์
   PIR Motion Sensor
-    VCC  -> 3.3V
+    VCC  -> 5V
     GND  -> GND
     OUT  -> GPIO4
   LED
