@@ -1,5 +1,5 @@
 /*  การเชื่อมต่อ 
-  PIR VCC  -> 3.3V
+  PIR VCC  -> 5V
   PIR GND  -> GND
   PIR OUT  -> GPIO4*/
 #define PIR_PIN 4
